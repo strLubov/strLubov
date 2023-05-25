@@ -7,14 +7,17 @@
 
 <h1 About me:/></h1>
 
-Here are some ideas to get you started:
+7+ years of experience in QA (Web, API)
+Attention to details, analytical mind and problem-solving attitude
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Skills: Python, Kafka, APU
+
+- 🔭 I’m currently working on Sberbank (The largest bank in Russia) 
+
+
+
+
+
